@@ -324,10 +324,7 @@ h3 {
     background-color: white !important; } }
 
 header {
-  background: #323232;
-  background-color: black;
-  height: 10vh;
-  width: 100%; }
+ }
   header ul {
     padding: 1% 0 !important;
     list-style-type: none;
@@ -335,7 +332,7 @@ header {
     height: auto;
     padding: 0;
     overflow: hidden;
-    background-color: #333; }
+     }
     header ul li {
       float: right;
       position: relative; }
@@ -386,10 +383,7 @@ header {
     margin-right: 15%; }
 
 .sub-nav {
-  background-color: black;
-  height: auto;
-  padding: 1% 0;
-  color: white; }
+}
   .sub-nav p {
     margin: 0;
     height: 100%;
