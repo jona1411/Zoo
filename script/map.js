@@ -47,6 +47,9 @@ $('.map-inside').bind('mousewheel', function(e){
             
         }
          });
+         if ($(window).width() < 600)
+         size = $(window).width();
+         else
          size = 600;
          $( ".dialog" ).dialog({
               clickOutside: true,
