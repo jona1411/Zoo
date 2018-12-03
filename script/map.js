@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-var map = $(".sub-nav").outerHeight() + $("header").outerHeight();
+var map = $("header").outerHeight();
 var d = $(window).height();
 var height = d - map;
 console.log(height);
